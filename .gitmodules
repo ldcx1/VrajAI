@@ -1,0 +1,48 @@
+[submodule "litellm"]
+	path = vendor/litellm
+	url = https://github.com/ldcx1/litellm.git
+[submodule "ollama-metrics"]
+	path = vendor/ollama-metrics
+	url = https://github.com/ldcx1/ollama-metrics.git
+[submodule "ai-counsel"]
+	path = vendor/ai-counsel
+	url = https://github.com/ldcx1/ai-counsel.git
+[submodule "mcp-system-monitor"]
+	path = mcp-servers/mcp-system-monitor
+	url = https://github.com/ldcx1/mcp-system-monitor.git
+[submodule "ollamafarm"]
+	path = vendor/ollamafarm
+	url = https://github.com/presbrey/ollamafarm.git
+[submodule "submodules/celery"]
+	path = vendor/celery
+	url = git@github.com:ldcx1/celery.git
+[submodule "code-graph-rag"]
+	path = mcp-servers/code-graph-rag
+	url = git@github.com:ldcx1/code-graph-rag.git
+[submodule "RAG-Anything"]
+	path = mcp-servers/RAG-Anything
+	url = git@github.com:ldcx1/RAG-Anything.git
+[submodule "aws-s3-mcp"]
+	path = mcp-servers/aws-s3-mcp
+	url = git@github.com:ldcx1/aws-s3-mcp.git
+[submodule "submodules/mlflow"]
+	path = vendor/mlflow
+	url = git@github.com:ldcx1/mlflow.git
+[submodule "celery-mcp"]
+	path = mcp-servers/celery-mcp
+	url = git@github.com:ldcx1/celery-mcp.git
+[submodule "nanobot"]
+	path = agent/nanobot
+	url = git@github.com:ldcx1/nanobot.git
+[submodule "vibe-check-mcp-server"]
+	path = mcp-servers/vibe-check-mcp-server
+	url = git@github.com:ldcx1/vibe-check-mcp-server.git
+[submodule "arxiv-mcp-server"]
+	path = mcp-servers/arxiv-mcp-server
+	url = git@github.com:ldcx1/arxiv-mcp-server.git
+[submodule "council-router"]
+	path = services/council-router
+	url = git@github.com:ldcx1/council-router.git
+[submodule "gemini-cli-server"]
+	path = services/gemini-cli-server
+	url = https://github.com/ldcx1/gemini-cli-server.git
